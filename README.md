@@ -11,8 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Threat Detection Lab | <a href="https://github.com/ToluAdekore/ThreatDetectionLab.git">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Threat Detection Lab | <a href="https://github.com/ToluAdekore/ThreatDetectionLab.git">Threat Detection</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Click Here</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
