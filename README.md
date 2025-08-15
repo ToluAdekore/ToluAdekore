@@ -7,16 +7,15 @@ I am a 4th-year student with a profound interest in technology and a dedication 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Threat Detection Lab | <a href="https://github.com/ToluAdekore/ThreatDetectionLab.git">Threat Detection</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SOC Automation Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Malware Analysis                 | Malware Analysis Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill | Associated Project |
+|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| SIEM Threat Detection Lab | <a href="https://github.com/ToluAdekore/ThreatDetectionLab">ThreatDetectionLab</a> |
+| Log Analysis and Automation | <a href="https://github.com/ToluAdekore/Log-Analysis-Automation-Script">Log-Analysis-Automation-Script</a> |
+| IT Support and Helpdesk Simulation | <a href="https://github.com/ToluAdekore/IT-Support-Lab">IT-Support-Lab</a> |
+| Network Packet Analysis | <a href="https://github.com/ToluAdekore/network-packet-analysis-lab">network-packet-analysis-lab</a> |
+| Malware Analysis | <a href="https://github.com/ToluAdekore/malware-analysis-lab">malware-analysis-lab</a> |
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
