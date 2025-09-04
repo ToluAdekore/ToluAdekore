@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tolu Adekore  
 <a href="https://www.linkedin.com/in/tolu-adekore-55a613249/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-🔹 🎓 4th-Year Computer Science Student
+🔹 🎓 5th-Year Computer Science Student
 
 I combine technical skills, hands-on lab experience, and a passion for cybersecurity to detect, analyze, and respond to threats effectively. My mission is to **protect organizations from evolving cyber threats** and strengthen their security posture.
 
@@ -27,10 +27,8 @@ I’m eager to transition into cybersecurity with a focus on **Security Operatio
 | Skill | Associated Project |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | SIEM Threat Detection | <a href="https://github.com/ToluAdekore/ThreatDetectionLab">ThreatDetectionLab</a> – Built & configured a SIEM to detect and investigate suspicious activities |
-| Log Analysis & Automation | <a href="https://github.com/ToluAdekore/Log-Analysis-Automation-Script">Log-Analysis-Automation-Script</a> – Automated parsing, enrichment, and threat detection in log data |
 | IT Support & Helpdesk Simulation | <a href="https://github.com/ToluAdekore/IT-Support-Lab">IT-Support-Lab</a> – Simulated enterprise IT support using AD, O365, and ticketing systems |
 | Network Packet Analysis | <a href="https://github.com/ToluAdekore/network-packet-analysis-lab">network-packet-analysis-lab</a> – Analyzed PCAPs to detect malicious activity |
-| Malware Analysis | <a href="https://github.com/ToluAdekore/malware-analysis-lab">malware-analysis-lab</a> – Static/dynamic malware analysis with FLARE VM tools |
 
 ---
 
@@ -53,7 +51,6 @@ I’m eager to transition into cybersecurity with a focus on **Security Operatio
 ### 💻 Endpoint Security & Forensics  
 <div>
     <img src="https://img.shields.io/badge/-Sysmon-2C2C2C?&style=for-the-badge&logo=windows&logoColor=white" />
-    
 </div>
 
 ### 🔬 Malware Analysis & Reverse Engineering  
@@ -76,11 +73,9 @@ I’m eager to transition into cybersecurity with a focus on **Security Operatio
 ## 📂 Featured Projects  
 
 - **[ThreatDetectionLab](https://github.com/ToluAdekore/ThreatDetectionLab)** – Designed a SIEM lab with event forwarding, threat hunting queries, and alert tuning.  
-- **[Log-Analysis-Automation-Script](https://github.com/ToluAdekore/Log-Analysis-Automation-Script)** – Automated log parsing and detection to accelerate investigations.  
 - **[IT-Support-Lab](https://github.com/ToluAdekore/IT-Support-Lab)** – Built a virtual IT helpdesk environment simulating real enterprise workflows.  
 - **[network-packet-analysis-lab](https://github.com/ToluAdekore/network-packet-analysis-lab)** – Captured & analyzed PCAPs to detect scans, exploits, and malicious payloads.  
-- **[malware-analysis-lab](https://github.com/ToluAdekore/malware-analysis-lab)** – Investigated malware samples to identify behavior, IOCs, and persistence mechanisms.  
 
 ---
 
-💬 *Open to opportunities in SOC analysis, threat detection, and incident response. Let’s connect!*  
+💬 *Open to opportunities in SOC analysis, threat detection, and incident response. Let’s connect!*
